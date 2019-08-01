@@ -1,5 +1,5 @@
 # MaltegoAWSLambda
-Cloudformation setup and Lambda function for writing Maltego transforms with AWS
+Cloudformation setup and Lambda function for writing Maltego transforms with AWS. You can read the full writeup at https://www.andrewmohawk.com/2019/06/12/maltego-as-a-service/
 
 # Setup
 Go to cloudformation https://console.aws.amazon.com/cloudformation/home and upload the YAML file, complete with logging/AIM/lambda and API gateway setup.
